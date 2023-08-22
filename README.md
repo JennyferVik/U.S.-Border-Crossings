@@ -5,9 +5,9 @@ An exploratory analysis of U.S. Border crossings
 The objective of this project is to take a closer look at where people are crossing the U.S. borders, how they are crossing, and when they are crossing.  The project was used to look for possible patterns and to ascertain which crossing points have the highest volume, and by which method of crossing.
 
 # Tools
-Python
-Excel
-Tableau
+Python,
+Excel,
+Tableau,
 Google Drive
 
 # Data Set
